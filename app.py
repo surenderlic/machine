@@ -59,3 +59,4 @@ lr_model = pickle.load(open('iris.pkl', 'rb'))
 
 x=lr_model.predict([[5.1, 3.5, 1.4, 0.2]])[0]
 print('result:',x)
+#thank you for a good program#

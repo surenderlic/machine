@@ -1,5 +1,5 @@
 hungry = input("are you hungry?")
-
+print("welcome to python programming")
 if hungry == "yes":
     print("eat samosa")
 else:
